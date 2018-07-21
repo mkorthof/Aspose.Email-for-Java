@@ -1,1 +1,1 @@
-# MOVED TO [mkorthof/ost2pst](mkorthof/ost2pst)
+# MOVED TO [ost2pst](https://github.com/mkorthof/ost2pst)
