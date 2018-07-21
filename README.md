@@ -1,1 +1,1 @@
-# MOVED TO [mkorthof/ost2pst](ost2pst)
+# MOVED TO [/mkorthof/ost2pst](ost2pst)
